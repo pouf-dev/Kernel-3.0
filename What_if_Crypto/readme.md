@@ -9,4 +9,5 @@
 * encrypt_4.py
 
 ## les explications :
-* What_if_Crypto.pdf
+* [What_if_Crypto.pdf](https://github.com/pouf-dev/Kernel-3.0/blob/main/What_if_Crypto/What_if_Crypto.pdf)
+
